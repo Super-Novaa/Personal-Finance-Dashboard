@@ -9,10 +9,7 @@ To track personal finance such as spend analysis, transaction tracker, saving tr
 
 2) Track your transactions!.
 
-![image](https://user-images.githubusercontent.com/87086962/128936828-8f654f00-2b02-4c2e-b6ce-60997578d469.png)
-
-
-3) 3D model
+    3D model
 
    ![image](https://user-images.githubusercontent.com/87086962/128936867-24aec097-0fa7-4f10-a4a4-7321bd9e2b32.png)
 
