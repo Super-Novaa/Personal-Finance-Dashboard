@@ -31,9 +31,12 @@ To track personal finance such as spend analysis, transaction tracker, saving tr
    ** Slicers:**  Given a date slicer for user to change the time period accordingly
     
    ** Info button: Basic info on KPI's charts, their usage and drill-down options.
+   
+  ** Page Navigation:** Next button given to Navigate to next page of the dasborad.
+   
     
-    **Page Navigation:** Next button to navigate to next page.
 
+    
 2) **Track your transactions!.**
 
    ** 3D model**
