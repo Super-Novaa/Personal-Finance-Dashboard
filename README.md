@@ -23,23 +23,29 @@ To track personal finance such as spend analysis, transaction tracker, saving tr
 5. Gauge chart: To track % of saving achieved Vs Target set.
 6. Current Balance: To track the current blance in account.
 
-**Line Charts:** Monthly expenses and drill-down option for expenses against category.
+**Line Charts:**  Monthly expenses and drill-down option for expenses against category.
 
-**Table:(MoM expense increase/decrease %) :** Shows monthly expense agains prev month expense and increase/decrease as a percentage.
+**Table:(MoM expense increase/decrease %) :**  Shows monthly expense agains prev month expense and increase/decrease as a percentage.
     Conditional formatting using color code Mom % change column.
     
-   **Slicers:**  Given a date slicer for user to change the time period accordingly
+   **Slicers:**   Given a date slicer for user to change the time period accordingly
     
-   **Info button:** Basic info on KPI's charts, their usage and drill-down options.
+   **Info button:**  Basic info on KPI's charts, their usage and drill-down options.
    
-  **Page Navigation:** Next button given to Navigate to next page of the dasborad.
+  **Page Navigation:**  Next button given to Navigate to next page of the dasborad.
+  
+  
    
     
 
     
 2) **Track your transactions!.**
 
-   ** 3D model**
+
+
+   **3D model**
+   
+   
 
    ![image](https://user-images.githubusercontent.com/87086962/128936867-24aec097-0fa7-4f10-a4a4-7321bd9e2b32.png)
 
