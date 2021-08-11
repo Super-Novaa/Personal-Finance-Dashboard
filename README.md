@@ -28,11 +28,11 @@ To track personal finance such as spend analysis, transaction tracker, saving tr
 **Table:(MoM expense increase/decrease %) :** Shows monthly expense agains prev month expense and increase/decrease as a percentage.
     Conditional formatting using color code Mom % change column.
     
-   ** Slicers:**  Given a date slicer for user to change the time period accordingly
+   **Slicers:**  Given a date slicer for user to change the time period accordingly
     
-   ** Info button: Basic info on KPI's charts, their usage and drill-down options.
+   **Info button:** Basic info on KPI's charts, their usage and drill-down options.
    
-  ** Page Navigation:** Next button given to Navigate to next page of the dasborad.
+  **Page Navigation:** Next button given to Navigate to next page of the dasborad.
    
     
 
